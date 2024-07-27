@@ -1,5 +1,5 @@
 import 'package:assignment/models/model.dart';
-import 'package:assignment/sample_data.dart';
+import 'package:assignment/utils/sample_data.dart';
 
 class Controller {
   late final CardModel? cardData;
